@@ -1,0 +1,15 @@
+li a{ display:block;
+    color:white;
+    float:left;
+    padding-right: 50px;
+}
+li {
+    list-style-type: none;
+}
+nav{
+    background:black;
+    height:40px ;
+}
+h2>section{
+    background-image: url('catfont.prg');
+}
